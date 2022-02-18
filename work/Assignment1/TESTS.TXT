@@ -1,0 +1,1 @@
+gcc TJ.c -o TJ -std=gnu99 -Wall -Werror -I../ZDK -L../ZDK -lzdk -lncurses

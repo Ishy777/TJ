@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cab202_graphics.h": "c",
+        "limits.h": "c",
+        "cab202_timers.h": "c",
+        "math.h": "c"
+    }
+}
